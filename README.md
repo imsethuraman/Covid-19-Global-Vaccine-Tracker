@@ -1,6 +1,8 @@
 # Covid-19-Global-Vaccine-Tracker-Tableau & Python
 This repository provides a comprehensive and up-to-date global vaccine tracker for Covid-19. It includes data on the distribution, administration, and progress of Covid-19 vaccines worldwide. The tracker aggregates data from reliable sources, such as official government websites, and health organizations.
 
+Tableau Link: https://public.tableau.com/views/Covid-19GlobalVaccineTracker_16880581249130/Covid-19?:language=en-GB&:display_count=n&:origin=viz_share_link
+
 Key Features:
 
 Tableau and Python-based Covid-19 global vaccine tracker.
